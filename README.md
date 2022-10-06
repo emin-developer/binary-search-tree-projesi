@@ -1,7 +1,7 @@
 # binary-search-tree-projesi
 #### [Patika.dev](www.patika.dev/) sitesindeki Veri Yapıları ve Algoritmalar dersleri sonu "Binary Search Tree Projesi" 
 
-[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaları (Görsel anlatım)
+### [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaları (Görsel anlatım)
 
 |  |  |     |  |  |  |  |  |  |  |  |
 |--|--|-    |- |- |- |- |- |- |- |- |
@@ -15,7 +15,7 @@
 |  |  |     | /|  |\ |  |  |  |  |  |
 |  |  | 2   |  |  |  |4 |  |  |  |  |
 
-## [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaları (Yazılı anlatım) 
+### [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaları (Yazılı anlatım) 
 Binary-Search-Tree basitçe şöyle çalışıyor; bize verilen sayı dizisinden bir sayıyı ele alıyoruz ve buna **root** ismini veriyoruz. Sırayla sayılara bakmaya başlıyoruz. Teker teker ilerliyoruz. Baktığımız sayı root 'tan küçükse soluna, büyükse sağına yazıyoruz. 
 ``` 
 root olarak 7'yi kabul ettim ve 7'yi başa yazdım. Bu adım bitti.
